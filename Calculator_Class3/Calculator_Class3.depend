@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606727085 source:c:\users\moqsu\onedrive\desktop\c++ programmms\calculator_class3\calculator.cpp
+	"calculator.h"
+
+1606727062 source:c:\users\moqsu\onedrive\desktop\c++ programmms\calculator_class3\main.cpp
+	<iostream>
+	"calculator.h"
+	"Calculator.cpp"
+
+1606727062 c:\users\moqsu\onedrive\desktop\c++ programmms\calculator_class3\calculator.h
+
+1606727085 c:\users\moqsu\onedrive\desktop\c++ programmms\calculator_class3\calculator.cpp
+	"calculator.h"
+
